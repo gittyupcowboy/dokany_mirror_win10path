@@ -1,0 +1,9 @@
+/.vs
+Win32
+x64
+ARM
+ARM64
+Debug
+Release
+*.zip
+packages
